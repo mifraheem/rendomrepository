@@ -575,6 +575,9 @@ h3 {
     html {
         font-size: 7px;
     }
+     .header{
+        height: 70vh;
+    }
     .row{
         height: auto
     }
